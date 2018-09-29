@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    
+}
+
+body {
+    background-image: url('skyish.jpeg');
+}
+
+
+#countd{
+    font-size: 40px;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 70px;
+    color: #000;
+    opacity: 0.5;
+    
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: slateblue;
+    opacity: 0.8;
+}
